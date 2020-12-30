@@ -3,6 +3,9 @@
 using namespace std;
 
 int main(){
+	
+	
+	cout<<" Assiignment 6 by Ali Zia Khan"<<endl;
 	cout<<"==========MARKSHEET========="<<endl;
 	cout<<"Enter your English Subject Marks"<<endl;
 	float eng;
